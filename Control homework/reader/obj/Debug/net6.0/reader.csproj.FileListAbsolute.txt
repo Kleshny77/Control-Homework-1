@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/Control homework/reader/bin/Debug/net6.0/reader
+/Users/kleshny/Projects/Control homework/reader/bin/Debug/net6.0/reader.deps.json
+/Users/kleshny/Projects/Control homework/reader/bin/Debug/net6.0/reader.runtimeconfig.json
+/Users/kleshny/Projects/Control homework/reader/bin/Debug/net6.0/reader.dll
+/Users/kleshny/Projects/Control homework/reader/bin/Debug/net6.0/reader.pdb
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.AssemblyInfo.cs
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.dll
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/refint/reader.dll
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.pdb
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/reader.genruntimeconfig.cache
+/Users/kleshny/Projects/Control homework/reader/obj/Debug/net6.0/ref/reader.dll

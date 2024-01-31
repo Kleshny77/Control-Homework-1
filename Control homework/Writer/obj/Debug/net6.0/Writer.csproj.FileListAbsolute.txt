@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/Control homework/Writer/bin/Debug/net6.0/Writer
+/Users/kleshny/Projects/Control homework/Writer/bin/Debug/net6.0/Writer.deps.json
+/Users/kleshny/Projects/Control homework/Writer/bin/Debug/net6.0/Writer.runtimeconfig.json
+/Users/kleshny/Projects/Control homework/Writer/bin/Debug/net6.0/Writer.dll
+/Users/kleshny/Projects/Control homework/Writer/bin/Debug/net6.0/Writer.pdb
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.AssemblyInfo.cs
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.dll
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/refint/Writer.dll
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.pdb
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/Writer.genruntimeconfig.cache
+/Users/kleshny/Projects/Control homework/Writer/obj/Debug/net6.0/ref/Writer.dll
